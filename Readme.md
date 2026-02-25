@@ -1,7 +1,7 @@
 # Проект «Большое путешествие»
 
 * Студент: [Гермиона Акселератовна](https://up.htmlacademy.ru/ecmascript-individual/2/user/2376867).
-* Наставник: `Неизвестно`.
+* Наставник: `Juli Mukhametzyanova`.
 
 ---
 
